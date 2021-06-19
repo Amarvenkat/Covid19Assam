@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "51140198125",
+    "firebase_url": "https://covid19-assam.firebaseio.com",
+    "project_id": "covid19-assam",
+    "storage_bucket": "covid19-assam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51140198125:android:813093adc20e3496d456e4",
+        "android_client_info": {
+          "package_name": "com.amar.covid19assam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51140198125-0v5be6cj4t35mrioa63nbgalvoel6ibg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amar.covid19assam",
+            "certificate_hash": "d48f7fe48ba236f02a56e46cd5790f47f3c775c7"
+          }
+        },
+        {
+          "client_id": "51140198125-g6ti01ckgat0ngjkphasvq5cepjrjo9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTh-xBtOLhXHdVVFI6QiVF6lOBKwrAfbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51140198125-g6ti01ckgat0ngjkphasvq5cepjrjo9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
